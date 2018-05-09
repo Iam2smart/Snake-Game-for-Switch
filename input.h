@@ -26,7 +26,7 @@
 #define JOYPAD_R2		0x0200
 #define JOYPAD_L2		0x0100
 
-// custom data structure for space game input
+// custom data structure for snake game input
 struct PADData {
 	int btns_h;
 	float rstick_x;
